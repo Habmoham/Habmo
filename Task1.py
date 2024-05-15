@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
 
 # Python script to scrape an article given the url of the article and store the extracted text in a file
 # Url: https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
@@ -75,16 +70,3 @@ if __name__ == '__main__':
 	save_file(text)
 	# Instructions to Run this python code
 	# Give url as https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
